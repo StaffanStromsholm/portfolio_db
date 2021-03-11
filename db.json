@@ -35,7 +35,7 @@
         "id": 5,
         "title": "Covid-19 Tracker",
         "imgURL": "https://lh3.googleusercontent.com/W2Wv3yo-XvDKPTfo62c0zqxvL0EZCcXnEeEDCMcrNLQsF0nw8Ga4oRvnq4N9yanQnA998hw5lLN9VjpQEejs6w9Bqa48zbcZpDXioTR9TGG1jU-hzCNLNyRExhZvQw4OVAhw-2IWig=w2400",
-        "description": "A Covid-19 tracking application built with React.",
+        "description": "A Covid-19 tracking application built with React. Using matching algorithm to give suggestions of countries as you type.",
         "liveURL": "https://staffanstromsholm.github.io/covid19tracker/",
         "githubURL": "https://github.com/StaffanStromsholm/covid19tracker"
     },
