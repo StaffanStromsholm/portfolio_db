@@ -10,7 +10,7 @@
     {
         "id": 9,
         "title": "Mock Blog App",
-        "imgURL": "https://lh3.googleusercontent.com/MBdd3oddeL3uhS3YSmuR1G_6RdlLasQd2gE1w49KflfRC_Il40jK4PXvBBQ-pOZWAPXc0A5gEj40ySmr-yyTEa-d_433ocyZEHbBHKyjlZ-bgNZDZ6b3dKVOKJu4xyK9xaONHXWcDg=w2400",
+        "imgURL": "https://lh3.googleusercontent.com/EybMnVrEmyBRHuwa95gJ5n40enTmVabpXxarlsE_GrhT1Wvomjhi8IEQJCu9VoLdtU8EIFzpzNGct51Yahn4rMy31vlS7YdJnDYGH27G3Rkvv89iKqux9f7vhwMNl4jF8m7ddOih1w=w2400",
         "description": "Mock Blog application to practise simple routes, nested routes and conditional rendering in React.",
         "liveURL": "https://staffanstromsholm.github.io/react_assignement/",
         "githubURL": "https://github.com/StaffanStromsholm/react_assignement"
