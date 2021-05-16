@@ -1,4 +1,20 @@
 {"posts": [
+    {
+        "id": 10,
+        "title": "BandmateFinder",
+        "imgURL": "https://lh3.googleusercontent.com/C42_0chM8PKfSSfXPnFqEOuy1jgDBEwVIwWjI8wkF_hapbNTOqY6BV1pDzXVrdEjQ0YVMIKZTebmnwb4hLyddJhKtSWxSojbNzpCH9CvYyXH9v6aaCJ8iLUSJIukkIBkd_TGcD7KEw=w2400",
+        "description": "A social media app created for musicians. Users can create profiles, and connect with other users by commenting on their profiles. The users address is geocoded on the backend when signing up based on city and postal code, and the coordinates are stored to MongoDB along with the other information. You can filter users on the map so only users playing a certain instrument are shown. Technologies: React, Node, Express, mongoDB, Here Maps, Bcrypt for salting and hashing passwords, Node geocoder.",
+        "liveURL": "https://bandmatefinderclient.herokuapp.com/BandmateFinder-client",
+        "githubURL": "https://github.com/StaffanStromsholm/BandmateFinder-client"
+    },
+    {
+        "id": 11,
+        "title": "JobsInFinlandClone",
+        "imgURL": "https://lh3.googleusercontent.com/LjZMMnLPiIoJnZgYT1T3oLmLq8BlVjR_DRr63JF2OiNLNl2tipWdeCJp9LQgMwjLKQtEXtalnhqfuZ55COvuBYE4VNCyiLk5Nt5vCmMtVvmvdrso-19YqiJrdGpcXZH-21GGvjSRsA=w2400",
+        "description": "This project was a excercise in cloning a UI with plain HTML, CSS, JS",
+        "liveUrl": "https://staffanstromsholm.github.io/JobsInFinland/",
+        "githubURL": "https://github.com/StaffanStromsholm/JobsInFinland"
+    },
      {
         "id": 6,
         "title": "My Garage",
@@ -6,14 +22,6 @@
         "description": "Here I practiced Node, Express and EJS. A simple CRUD application for storing data about cars.",
         "liveURL": "",
         "githubURL": "https://github.com/StaffanStromsholm/car_project"
-    },
-     {
-        "id": 10,
-        "title": "BandmateFinder",
-        "imgURL": "https://lh3.googleusercontent.com/C42_0chM8PKfSSfXPnFqEOuy1jgDBEwVIwWjI8wkF_hapbNTOqY6BV1pDzXVrdEjQ0YVMIKZTebmnwb4hLyddJhKtSWxSojbNzpCH9CvYyXH9v6aaCJ8iLUSJIukkIBkd_TGcD7KEw=w2400",
-        "description": "A social media app created for musicians. Users can create profiles, and connect with other users by commenting on their profiles. The users address is geocoded on the backend when signing up based on city and postal code, and the coordinates are stored to MongoDB along with the other information. You can filter users on the map so only users playing a certain instrument are shown. Technologies: React, Node, Express, mongoDB, Here Maps, Bcrypt for salting and hashing passwords, Node geocoder.",
-        "liveURL": "https://bandmatefinderclient.herokuapp.com/BandmateFinder-client",
-        "githubURL": "https://github.com/StaffanStromsholm/BandmateFinder-client"
     },
     {
         "id": 9,
